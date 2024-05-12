@@ -1,4 +1,6 @@
 # Jewelry Store Admin Dashboard
+https://github.com/serkalemdelelegn 
+
 
 ## Overview
 The Jewelry Store Admin Dashboard is a web application designed for administrators to monitor and manage various aspects of the jewelry store's operations. It provides insights into user data, product inventory, customer comments, and orders, allowing administrators to make informed decisions to optimize business processes.
