@@ -1,5 +1,5 @@
 # Jewelry Store Admin Dashboard
-(https://github.com/serkalemdelelegn)
+![github](https://github.com/serkalemdelelegn)
 
 
 
